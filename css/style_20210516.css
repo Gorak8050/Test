@@ -1,0 +1,32 @@
+
+@media (min-width: 768px){
+    .navbar-nav {
+        float: right;
+    }
+  }
+    .navbar-brand {
+         padding: 0px;
+    }
+    .navbar-inverse {
+        background-color: #000;
+        color: #fff;
+        border-color: #a8a8a8;
+    }
+    .navbar-inverse .navbar-toggle .icon-bar {
+        background-color: #fff;
+    }
+    .navbar-inverse .navbar-nav>li>a {
+        color: #fff;
+    }
+    .navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover {
+      color: #6e6e6e;
+      background-color: transparent;
+    }
+    .navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
+    background-color: #3b3b3b;
+    }
+    body{
+      background: #000;   
+      color:#fff;
+    }
+  
